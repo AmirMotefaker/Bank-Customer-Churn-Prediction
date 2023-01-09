@@ -6,7 +6,7 @@
 - Help you understand which features and functionality are important for keeping customers in your product. 
 - Churn analytics is critical for getting a performance overview, identifying improvements and understanding which channels are driving the most value.
 
-## Customer Churn Prediction - Bank
+## Bank Customer Churn Prediction
 
 - Financial institutions have many clients close their accounts or migrate to other institutions.As a result, this has made a significant hole in sales and may significantly impact yearly revenues for the current fiscal year, leading stocks to plummet and market value to fall by a decent percentage.
 
